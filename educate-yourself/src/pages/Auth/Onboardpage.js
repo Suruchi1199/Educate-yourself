@@ -1,0 +1,5 @@
+const Onboardpage=()=>{
+    return (<>
+    
+    </>)
+}
